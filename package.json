@@ -19,7 +19,7 @@
     "eslint": "5.15.3",
     "jest": "24.5.0",
     "vue-jest": "3.0.4",
-    "vue-loader": "15.7.0",
+    "vue-loader": "15.8.3",
     "vue-template-compiler": "2.6.10",
     "webpack": "4.29.6",
     "webpack-cli": "3.3.0"
